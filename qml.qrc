@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TopButton.qml</file>
+        <file>Modal.qml</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
