@@ -46,7 +46,7 @@ Window {
                 font.italic : true
                 font.bold : true
                 font.pointSize : 10
-                text: "Личный кабинет"
+                text: "Main Window"
             }
 
             Image {
@@ -74,7 +74,7 @@ Window {
                 height: all.height/9
                 Text {
                     id: name
-                    text: qsTr("Основной экран")
+                    text: qsTr("TEST1")
                     color: "white"
                     anchors.centerIn: parent
                     font.italic : true
@@ -99,7 +99,7 @@ Window {
                 height: all.height/9
                 Text {
                     id: name1
-                    text: qsTr("Мои подписки")
+                    text: qsTr("TEST2")
                     color: "white"
                     anchors.centerIn: parent
                     font.italic : true
@@ -122,7 +122,7 @@ Window {
                 height: all.height/9
                 Text {
                     id: name2
-                    text: qsTr("Оповещения")
+                    text: qsTr("TEST3")
                     color: "white"
                     anchors.centerIn: parent
                     font.italic : true
@@ -145,7 +145,7 @@ Window {
                 height: all.height/9
                 Text {
                     id: name3
-                    text: qsTr("Заявки")
+                    text: qsTr("TEST4")
                     color: "white"
                     anchors.centerIn: parent
                     font.italic : true
@@ -167,7 +167,7 @@ Window {
                 height: all.height/9
                 Text {
                     id: name4
-                    text: qsTr("Уведомления")
+                    text: qsTr("TEST5")
                     color: "white"
                     anchors.centerIn: parent
                     font.italic : true
@@ -189,7 +189,7 @@ Window {
                 height: all.height/9
                 Text {
                     id: name5
-                    text: qsTr("Статистика")
+                    text: qsTr("TEST6")
                     color: "white"
                     anchors.centerIn: parent
                     font.italic : true
@@ -385,7 +385,7 @@ Window {
            font.italic : true
            //font.bold : true
            font.pointSize : 10
-           text: "Управление услугами"
+           text: "Button1"
        }
 
        MouseArea {
@@ -437,7 +437,7 @@ Window {
            font.italic : true
            //font.bold : true
            font.pointSize : 10
-           text: "Тарифы"
+           text: "Button2"
        }
 
        MouseArea {
@@ -483,7 +483,7 @@ Window {
            font.italic : true
            //font.bold : true
            font.pointSize : 10
-           text: "Акции"
+           text: "Button3"
        }
 
        MouseArea {
