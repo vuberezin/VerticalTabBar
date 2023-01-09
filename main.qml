@@ -1,8 +1,9 @@
-import QtQuick 2.1
-import QtQuick.Window 2.1
-import QtQuick.Layouts 1.12
-import QtQuick.Controls 2.1
+import QtQuick 2.15
+import QtQuick.Window 2.15
+import QtQuick.Layouts 1.15
+import QtQuick.Controls 2.15
 import QtCharts 2.4
+
 
 Window {
     id: all
