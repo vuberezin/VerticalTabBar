@@ -8,7 +8,7 @@ Dialog {
 
     width: 400
     height: 380
-    title: "Модальное окно"
+    title: "Modal Window"
     contentItem: Rectangle {
         gradient: Gradient {
             GradientStop { position: 0.0; color: "#dbddde" }
@@ -19,7 +19,7 @@ Dialog {
             font.italic : true
             font.bold : true
             font.pointSize : 10
-            text: "Тестовый текст"
+            text: "Test text"
             color: "navy"
             anchors.centerIn: parent
         }
