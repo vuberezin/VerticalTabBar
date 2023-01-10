@@ -1,2 +1,2 @@
 # VerticalTabBar
-VerticalTabBar is example of a vertical tab bar created using Qt Qml for learning Qml
+VerticalTabBar is created by Qt Qml as a custom vertical tab bar example for learning Qml
